@@ -1,0 +1,6 @@
+//PwObPPkiv2IJ0Fg7
+module.exports = {
+  MONGOURI:
+    "mongodb+srv://rishijce20:PwObPPkiv2IJ0Fg7@cluster0.hxgxorp.mongodb.net/",
+  JWT_SECRET: "rishijain",
+};
